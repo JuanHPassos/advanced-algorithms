@@ -2,12 +2,24 @@
 Projects for Advanced Algorithms, 2025, ICMC-USP, São Carlos, Brazil
 
 ## Assignments
-  - Exercise 1: [Tabuleiro em Java](aula-02/src)
-  - Exercise 2: [Tabuleiro em Python](aula-03/src)
-  - Exercise 3: [Bozo em Python](aula-04/src)
-  - Exercise 4: [Árvore binárias em Java](aula-05/src)
-  - Exercise 5: [Loja em Java](aula-06/src)
-  - Exercise 6: [Dicionário em Python](aula-07/src/dicionario.py)
+  - Exercise 00: [Introdutório](Exercises/E00.cpp)
+  - Exercise 0.5: [Introdutório](Exercises/E0.5.cpp)
+  - Exercise 01: [Força Bruta](Exercises/E01.cpp)
+  - Exercise 02: [Guloso](Exercises/E02.cpp)
+  - Exercise 03: [Guloso](Exercises/E03.cpp)
+  - Exercise 04: [Guloso](Exercises/E04.cpp)
+  - Exercise 05: [Divisão e Conquista](Exercises/E05.cpp)
+  - Exercise 06: [Divisão e Conquista](Exercises/E06.cpp)
+  - Exercise 07: [Programação Dinâmica](Exercises/E07.cpp)
+  - Exercise 08: [Programação Dinâmica](Exercises/E08.cpp)
+  - Exercise 09: [Programação Dinâmica](Exercises/E09.cpp)
+  - Exercise 10: [Teoria dos Números](Exercises/E10.cpp)
+  - Exercise 11: [Grafos](Exercises/E11.cpp)
+  - Exercise 12: [Grafos](Exercises/E12.cpp)
+  - Exercise 13: [Grafos](Exercises/E13.cpp)
+  - Exercise 14: [Strings](Exercises/E14.cpp)
+  - Exercise 15: [Teoria dos Jogos](Exercises/E15.cpp)
 
 ## Projects
-  - Final Project: [ScrappingJupiter](https://github.com/HenriqueVieira04/ScrappingLamaro)
+  - Project 01: [Processamento de Strings e Tries](Projects/T01.cpp)
+  - Project 02: [Grafos e Geometria Computacional](Projects/T02.cpp)
