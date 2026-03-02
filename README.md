@@ -23,3 +23,13 @@ Projects for Advanced Algorithms, 2025, ICMC-USP, São Carlos, Brazil
 ## Projects
   - Project 01: [Processamento de Strings e Tries](Projects/T01.cpp)
   - Project 02: [Grafos e Geometria Computacional](Projects/T02.cpp)
+
+# Advanced Algorithms Laboratory
+Projects for Advanced Algorithms Laboratory, 2026, ICMC-USP, São Carlos, Brazil
+
+## Assignments
+  - Exercise 00: [Introdutório]()
+
+## Projects
+  - Project 01: 
+  - Project 02: 
