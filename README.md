@@ -28,7 +28,9 @@ Projects for Advanced Algorithms, 2025, ICMC-USP, São Carlos, Brazil
 Projects for Advanced Algorithms Laboratory, 2026, ICMC-USP, São Carlos, Brazil
 
 ## Assignments
-  - Exercise 00: [Introdutório]()
+  - Exercise 01: [Introdutório](Exercises/Laboratory/E01.cpp)
+  - Exercise 02: [Introdutório](Exercises/Laboratory/E02.cpp)
+  - Exercise 03: [Introdutório](Exercises/Laboratory/E03.cpp)
 
 ## Projects
   - Project 01: 
