@@ -31,6 +31,10 @@ Projects for Advanced Algorithms Laboratory, 2026, ICMC-USP, São Carlos, Brazil
   - Exercise 01: [Introdutório](Exercises/Laboratory/E01.cpp)
   - Exercise 02: [Introdutório](Exercises/Laboratory/E02.cpp)
   - Exercise 03: [Introdutório](Exercises/Laboratory/E03.cpp)
+  - Exercise 02: [Guloso](Exercises/Laboratory/E04.cpp)
+  - Exercise 03: [Guloso](Exercises/Laboratory/E05.cpp)
+  - Exercise 04: [Guloso](Exercises/Laboratory/E06.cpp)
+  - Exercise 04: [Guloso](Exercises/Laboratory/E07.cpp)
 
 ## Projects
   - Project 01: 
