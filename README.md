@@ -39,6 +39,10 @@ Projects for Advanced Algorithms Laboratory, 2026, ICMC-USP, São Carlos, Brazil
   - Exercise 09: [Programação Dinâmica](Exercises/Laboratory/E09.cpp)
   - Exercise 10: [Programação Dinâmica](Exercises/Laboratory/E10.cpp)
   - Exercise 11: [Programação Dinâmica](Exercises/Laboratory/E11.cpp)
+  - Exercise 12: [Programação Dinâmica](Exercises/Laboratory/E12.cpp)
+  - Exercise 13: [Programação Dinâmica](Exercises/Laboratory/E13.cpp)
+  - Exercise 14: [Programação Dinâmica](Exercises/Laboratory/E14.cpp)
+  - Exercise 15: [Programação Dinâmica](Exercises/Laboratory/E15.cpp)
 
 ## Projects
   - Project 01: 
